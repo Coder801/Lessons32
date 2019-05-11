@@ -1,0 +1,21 @@
+.panels {
+  padding: 10px 0;
+}
+
+.panels .btn {
+  margin-bottom: 20px;
+  position: relative;
+}
+
+.card.reverse {
+  background-color: #212529;
+  color: white;
+}
+
+hr {
+  margin-bottom: 30px;
+}
+
+.comments {
+  padding: 30px 0;
+}
